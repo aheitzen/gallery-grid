@@ -15,7 +15,7 @@ Quick CSS grid tutorial.
 
 
 **Live link:**
-<a href="https://aheitzen.github.io/equal-work-equal-pay/" target="blank">Gallery Grid Tutorial</a>
+<a href="https://aheitzen.github.io/gallery-grid/" target="blank">Gallery Grid Tutorial</a>
 
 **Technologies used**
 * HTML5
