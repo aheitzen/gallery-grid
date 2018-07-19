@@ -9,16 +9,19 @@ html, body {
 .card {
     background-color: white;
 }
+
 .card-title {
     font-size: 2rem;
     padding: .5rem;
 }
+
 .card-desc {
     padding: .5rem;
     line-height: 1.6em;
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 1rem;
 }
+
 .button {
     display: block;
     background-color: black;
