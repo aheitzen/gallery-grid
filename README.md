@@ -4,9 +4,8 @@ Quick CSS grid tutorial.
 
 **Original Tutorial**
 
-<a href="https://bryanlrobinson.com/blog/2017/07/26/howto-css-grid-layout-to-make-a-simple-fluid-card-grid/">Fluid Grid Layout Tutorial</a>
-
 <a href="https://bryanlrobinson.com/blog/2017/07/26/howto-css-grid-layout-to-make-a-simple-fluid-card-grid/" target="blank">Gallery Grid Tutorial</a>
+
 **Screenshots**
 
 <img src="images/1.png" width="280" alt="Desktop">
