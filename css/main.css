@@ -1,5 +1,9 @@
 html, body {
-	background-color: pink;
+	background-color: #FED1DC;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
 }
 
 .card {
@@ -17,7 +21,7 @@ html, body {
 }
 .button {
     display: block;
-    background-color: tomato;
+    background-color: black;
     padding: 10px 20px;
     color: white;
     text-decoration: none;
@@ -44,9 +48,41 @@ h3 {
 	align-items: center;
 }
 
+a {
+	 font-family: 'Source Sans Pro', sans-serif;
+}
+
 .card-container {
 	display: grid;
 	padding: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: 1rem;
+}
+
+#two {
+	background-color: #FDAAA7;
+}
+
+#three {
+	background-color: #FED3B8;
+}
+
+#four {
+	background-color: #DCECC3;
+}
+
+#five {
+	background-color: #AAE5CF;
+}
+
+#six {
+	background-color: #BCFEFE;
+}
+
+#seven {
+	background-color: #BBE1FE;
+}
+
+#eight {
+	background-color: #BABEFD;
 }
